@@ -1,0 +1,7 @@
+{
+  "name": "pantallas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
