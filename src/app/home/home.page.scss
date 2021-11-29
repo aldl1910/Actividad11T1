@@ -26,7 +26,7 @@
   text-decoration: none;
 }
 
-@media only screen and (min-width: 200px) and (max-width: 499px){
+@media only screen and (min-width: 0) and (max-width: 499px){
   ion-content {
     --color: #333292;
     --background: #c91515;
@@ -45,13 +45,13 @@
   }
 }
 @media only screen and (orientation: landscape) {
-  button.verti {
+  .verti {
     display:none;
   }
 }
 
 @media only screen and (orientation: portrait) {
-  button.hori {
+  .hori {
     display:none;
   }
 }
